@@ -87,8 +87,8 @@ JavaScript████████     80%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CWlTF&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff0000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CWlTF&theme=dark&background=0d1117&stroke=00ff00&ring=ff0000&fire=ff0000&currStreakLabel=00ff00" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CWLTF&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff0000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CWLTF&theme=dark&background=0d1117&stroke=00ff00&ring=ff0000&fire=ff0000&currStreakLabel=00ff00" height="165"/>
 
 </div>
 
@@ -98,7 +98,7 @@ JavaScript████████     80%
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CWlTF&bg_color=0d1117&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CWLTF&bg_color=0d1117&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true)
 
 </div>
 
