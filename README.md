@@ -414,7 +414,6 @@ class QuantumHacker:
 <sub>⚡ Warning: This profile may cause existential crisis | 🎭 Side effects include digital enlightenment</sub>
 
 </div>
-### 💻 DIGITAL WEAPONS ARSENAL
 
 <div align="center">
 
