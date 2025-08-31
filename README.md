@@ -4,7 +4,7 @@
 
 **Penetration Tester • Digital Forensics Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Security+Professional;2+Years+Experience;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Security+Professional;Jr+Penetration+Tester;Jr+Digital+Forensics)](https://git.io/typing-svg)
 
 </div>
 
