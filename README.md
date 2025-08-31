@@ -72,7 +72,8 @@ class SecurityProfessional:
 - Network vulnerability assessment
 - Basic exploit development
 - Security automation with Python
-- Linux system administration , i use ![Arch Linux](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+- Linux system administration
+- i use ![Arch Linux](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </td>
 <td width="50%">
