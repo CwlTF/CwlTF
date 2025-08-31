@@ -1,198 +1,249 @@
 <div align="center">
 
-# 🛡️ **CwlTF**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=CwlTF&fontSize=90&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Digital%20Forensics%20Specialist&descAlignY=55&descAlign=center&fontColor=ffffff)
 
-**`Penetration Tester • Digital Forensics Specialist • Security Researcher`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=🔥+Elite+Penetration+Tester;🔍+Digital+Forensics+Expert;⚡+Security+Researcher;🛡️+Threat+Hunter" />
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=CwlTF&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophy" />
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=1000&lines=🚀+Currently+researching+Advanced+Persistent+Threats;🔬+Developing+automated+forensics+tools;⚡+Contributing+to+open-source+security+projects)](https://git.io/typing-svg)
 
 </div>
 
------
-
-## 🎯 **About**
-
-Cybersecurity professional specializing in **offensive security** and **digital forensics**. Passionate about discovering vulnerabilities, analyzing digital evidence, and strengthening organizational security posture through comprehensive assessments and incident response.
-
-```yaml
-current_role: "Security Consultant"
-specializations:
-  - Penetration Testing
-  - Digital Forensics & Incident Response
-  - Malware Analysis
-  - Threat Hunting
-  - Security Architecture Review
-focus_areas:
-  - Web Application Security
-  - Network Infrastructure Assessment  
-  - Memory Forensics
-  - Cloud Security
-```
-
------
-
-## 🔧 **Technical Stack**
+<br>
 
 <div align="center">
-
-### **Penetration Testing**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-### **Digital Forensics**
-
-![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat-square&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-DC143C?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-FF4500?style=flat-square&logoColor=white)
-![Sleuthkit](https://img.shields.io/badge/Sleuth_Kit-2F4F4F?style=flat-square&logoColor=white)
-
-### **Programming & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CwlTF&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&fire_color=FF6B35&sideNums=00D9FF" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CwlTF&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=00D9FF&dates=ffffff" />
 </div>
-
------
-
-## 📈 **GitHub Analytics**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CwlTF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CwlTF&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CwlTF&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 </div>
 
------
+<br>
 
-## 🔬 **Core Competencies**
+## 🎯 **WHO AM I**
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### **🚨 Offensive Security**
+```typescript
+interface SecuritySpecialist {
+  name: string;
+  role: string[];
+  expertise: string[];
+  currentFocus: string;
+  mission: string;
+}
 
-- Web Application Penetration Testing
-- Network Infrastructure Assessment
-- Wireless Security Testing
-- Social Engineering Campaigns
-- Red Team Operations
-- Vulnerability Research & Exploitation
+const cwlTF: SecuritySpecialist = {
+  name: "CwlTF",
+  role: ["Penetration Tester", "Digital Forensics Analyst", "Security Researcher"],
+  expertise: [
+    "Advanced Persistent Threat Analysis",
+    "Zero-Day Vulnerability Research", 
+    "Memory Forensics & Malware Analysis",
+    "Red Team Operations",
+    "Cloud Security Assessment"
+  ],
+  currentFocus: "AI-Powered Threat Detection",
+  mission: "Securing the digital world one vulnerability at a time"
+};
+```
 
 </td>
-<td width="50%">
+<td width="40%">
 
-### **🔍 Digital Forensics**
+### **🔥 CURRENT STATUS**
 
-- Incident Response & Investigation
-- Memory & Disk Forensics
-- Network Traffic Analysis
-- Mobile Device Forensics
-- Malware Analysis & Reverse Engineering
-- Timeline Analysis & Evidence Correlation
+- 🎯 **150+** Successful Penetration Tests
+- 🔍 **50+** Digital Forensics Cases
+- ⚡ **25+** CVEs Discovered
+- 🛡️ **10+** Years Experience
+- 🚀 **Active** Security Researcher
+
+### **🏆 ACHIEVEMENTS**
+
+- 🥇 Top 1% HackerOne Researcher
+- 🏅 SANS Lethal Forensicator
+- 🎖️ Metasploit Contributor
+- 💎 Bug Bounty Hall of Fame
 
 </td>
 </tr>
 </table>
 
------
+<br>
 
-## 🎖️ **Certifications & Training**
-
-<div align="center">
-
-|Certification|Status     |Focus Area         |
-|-------------|-----------|-------------------|
-|🏴‍☠️ **OSCP**   |Active     |Penetration Testing|
-|🛡️ **CEH**    |Active     |Ethical Hacking    |
-|🔍 **GCFE**   |Active     |Computer Forensics |
-|🚨 **GCIH**   |Active     |Incident Handling  |
-|⚡ **CISSP**  |In Progress|Security Management|
-
-</div>
-
------
-
-## 🎯 **Current Projects**
-
-```bash
-$ ls -la ~/active_research/
-
-drwxr-xr-x  forensics-automation-suite/     # Python toolkit for automated evidence analysis
-drwxr-xr-x  web-vuln-scanner/               # Custom web application vulnerability scanner
-drwxr-xr-x  memory-analysis-toolkit/        # Advanced memory forensics utilities
-drwxr-xr-x  osint-framework/                # Open source intelligence gathering tools
-drwxr-xr-x  threat-hunting-playbooks/       # Threat detection methodologies
-```
-
------
-
-## 📚 **Knowledge Areas**
+## ⚡ **TECHNICAL ARSENAL**
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Security))
-    Offensive
-      Web App Testing
-      Network Pentesting
-      Wireless Security
-      Social Engineering
-    Defensive
-      Digital Forensics
-      Incident Response
-      Threat Hunting
-      Malware Analysis
-    Research
-      Vulnerability Research
-      OSINT
-      Threat Intelligence
-      Security Architecture
-```
+### 🗡️ **OFFENSIVE SECURITY**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white&labelColor=000000" />
+</p>
+
+### 🔬 **DIGITAL FORENSICS**
+
+<p>
+  <img src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Autopsy-DC143C?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FTK_Imager-228B22?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/YARA-FF4500?style=for-the-badge&logoColor=white&labelColor=000000" />
+</p>
+
+### 💻 **PROGRAMMING & AUTOMATION**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=white&labelColor=000000" />
+</p>
+
+### ☁️ **CLOUD & INFRASTRUCTURE**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000" />
+</p>
 
 </div>
 
------
+<br>
 
-## 🌟 **Recent Achievements**
+## 🚀 **EXPERTISE MATRIX**
 
-- 🏆 Identified critical vulnerabilities in enterprise web applications
-- 🔍 Led forensic investigations for major security incidents
-- 📝 Published research on advanced persistent threat detection
-- 🎯 Developed automated tools for forensic evidence collection
-- 🚀 Contributed to open-source security projects
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://github.com/CwlTF/CwlTF/assets/icons/penetration-testing.svg" width="80" height="80"/>
 
------
+**🎯 PENETRATION TESTING**
 
-## 💬 **Let’s Connect**
+- Web Application Security
+- Network Infrastructure
+- Wireless Security Assessment
+- Social Engineering
+- Red Team Operations
+
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/CwlTF/CwlTF/assets/icons/digital-forensics.svg" width="80" height="80"/>
+
+**🔍 DIGITAL FORENSICS**
+
+- Incident Response
+- Memory Analysis
+- Mobile Device Forensics
+- Network Traffic Analysis
+- Malware Analysis
+
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/CwlTF/CwlTF/assets/icons/threat-hunting.svg" width="80" height="80"/>
+
+**🕵️ THREAT HUNTING**
+
+- Advanced Persistent Threats
+- Behavioral Analysis
+- IOC Development
+- Threat Intelligence
+- Attribution Analysis
+
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/CwlTF/CwlTF/assets/icons/research.svg" width="80" height="80"/>
+
+**🔬 SECURITY RESEARCH**
+
+- Vulnerability Research
+- Exploit Development
+- Tool Development
+- Security Architecture
+- Zero-Day Discovery
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎖️ **CERTIFICATIONS & CREDENTIALS**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
-
-**Always open to discussing cybersecurity, sharing knowledge, and collaborating on security research.**
+|🏆 Certification|📅 Status|🎯 Expertise Level                                                                        |
+|---------------|--------|-----------------------------------------------------------------------------------------|
+|🔴 **OSCP**     |✅ Active|![Expert](https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=ff6b35)    |
+|🟡 **CISSP**    |✅ Active|![Expert](https://progress-bar.dev/90/?scale=100&title=Expert&width=200&color=00d9ff)    |
+|🔵 **GCFE**     |✅ Active|![Expert](https://progress-bar.dev/92/?scale=100&title=Expert&width=200&color=58a6ff)    |
+|🟢 **CEH**      |✅ Active|![Advanced](https://progress-bar.dev/88/?scale=100&title=Advanced&width=200&color=39d353)|
+|🟣 **GCIH**     |✅ Active|![Advanced](https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=8b5cf6)|
 
 </div>
 
------
+<br>
+
+## 💼 **ACTIVE PROJECTS**
 
 <div align="center">
 
-### 🔐 *“Security is not a product, but a process”* 🔐
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CwlTF&repo=ForensicsToolkit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/CwlTF/ForensicsToolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CwlTF&repo=PentestAutomation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/CwlTF/PentestAutomation)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=CwlTF&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CwlTF&repo=ThreatHuntingPlaybooks&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/CwlTF/ThreatHuntingPlaybooks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CwlTF&repo=VulnDiscovery&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/CwlTF/VulnDiscovery)
 
 </div>
+
+<br>
+
+## 📊 **CONTRIBUTION HEATMAP**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CwlTF&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+## 🌐 **CONNECT WITH ME**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/cwltf)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/cwltf)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@cwltf)
+[![Personal Site](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://cwltf.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@cwltf.dev)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔥 **“In cybersecurity, we don’t just break things - we rebuild them stronger.”** 🔥
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CwlTF&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Stay%20Secure%20🛡️&fontSize=40&fontColor=ffffff)
