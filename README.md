@@ -145,12 +145,15 @@ Here are some projects I’m working on or have completed:
 
 -----
 
-## 📫 **Let’s Connect**
+## 📞 **Contact Me**
 
 <div align="center">
     
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cwltff)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cwltfx11@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/CwlTF)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/_cwl.tf)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://reddit.com/u/Kevkkk)
 
 **Always interested in learning from other security professionals and sharing knowledge!**
 
