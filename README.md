@@ -21,8 +21,8 @@
 
 ```yaml
 user: CwlTF
-role: [Penetration Tester, Digital Forensics Analyst, Security Researcher]
-experience: 8+ years
+role: [Penetration Tester, Digital Forensics Analyst]
+experience: 2 years
 specialties:
   offensive:
     - Web Application Penetration Testing
@@ -135,44 +135,7 @@ motto: "Breaking things to build them stronger"
 
 </td>
 </tr>
-</table>
-
------
-
-## 🏆 **CERTIFICATIONS & CREDENTIALS**
-
-<div align="center">
-
-|🎖️ **Certification**|📅 **Status**     |🎯 **Expertise** |
-|:-----------------:|:---------------:|:--------------:|
-|🔴 **OSCP**         |✅ **Active**     |**Advanced**    |
-|🟡 **CISSP**        |✅ **Active**     |**Expert**      |
-|🔵 **GCFE**         |✅ **Active**     |**Expert**      |
-|🟢 **CEH**          |✅ **Active**     |**Advanced**    |
-|🟣 **GCIH**         |✅ **Active**     |**Advanced**    |
-|🔶 **OSWE**         |🎯 **In Progress**|**Intermediate**|
-
 </div>
-
------
-
-## 🚀 **CURRENT PROJECTS**
-
-<div align="center">
-
-### **🔥 Active Development**
-
-|📦 **Project**          |🎯 **Purpose**                           |💻 **Tech Stack**        |
-|:----------------------|:---------------------------------------|:-----------------------|
-|**ForensicsToolkit**   |Automated evidence collection & analysis|Python, Volatility, YARA|
-|**PentestAutomation**  |Custom penetration testing framework    |Go, Python, Docker      |
-|**ThreatHuntPlaybooks**|Threat detection methodologies          |SIGMA, KQL, Python      |
-|**VulnScanner**        |Web application vulnerability scanner   |Rust, JavaScript        |
-|**MemAnalyzer**        |Advanced memory forensics toolkit       |C++, Python             |
-
-</div>
-
------
 
 ## 📊 **PROFESSIONAL METRICS**
 
@@ -192,40 +155,6 @@ motto: "Breaking things to build them stronger"
 ```
 
 </div>
-
------
-
-## 🔬 **RESEARCH & PUBLICATIONS**
-
-### **📚 Recent Research Areas**
-
-- **Advanced Memory Forensics Techniques for Encrypted Malware**
-- **AI-Powered Threat Detection in Cloud Environments**
-- **Zero-Day Vulnerability Research in IoT Devices**
-- **Behavioral Analysis for Advanced Persistent Threats**
-- **Blockchain Forensics and Cryptocurrency Investigations**
-
-### **🎤 Speaking Engagements**
-
-- **Black Hat 2024**: “Advanced Memory Evasion Techniques”
-- **BSides 2024**: “Automating Digital Forensics Workflows”
-- **DEF CON 31**: “Modern Red Team Infrastructure”
-
------
-
-## 💼 **PROFESSIONAL EXPERIENCE**
-
-```bash
-┌─[experience@timeline]─[~/career]
-└──$ history | tail -4
-
-2023-Present │ Senior Security Consultant @ CyberGuard Solutions
-2021-2023    │ Lead Penetration Tester @ SecureNet Corp
-2019-2021    │ Digital Forensics Analyst @ CyberCrime Unit
-2017-2019    │ Junior Security Researcher @ TechDefense Labs
-```
-
------
 
 ## 🌐 **CONNECT & COLLABORATE**
 
