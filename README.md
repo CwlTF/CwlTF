@@ -1,189 +1,157 @@
 <div align="center">
 
-# 🔥 **CwlTF**
+# 🛡️ **CwlTF**
 
-### `Penetration Tester` • `Digital Forensics Specialist` • `Security Researcher`
+**Penetration Tester • Digital Forensics Enthusiast**
 
------
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Elite+Penetration+Tester+%F0%9F%8E%AF;Digital+Forensics+Expert+%F0%9F%94%8D;Advanced+Threat+Hunter+%F0%9F%95%B5%EF%B8%8F;Security+Researcher+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Security+Professional;2+Years+Experience;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
 -----
 
-## 💀 **WHOAMI**
+## 👨‍💻 **About Me**
 
-```bash
-┌──[cwltf@security]─[~]
-└──$ cat /etc/passwd | grep cwltf
-```
+Security professional with 2 years of experience in penetration testing and digital forensics. Currently developing my skills through hands-on practice and continuous learning.
 
-```yaml
-user: CwlTF
-role: [Penetration Tester, Digital Forensics Analyst]
-experience: 2 years
-specialties:
-  offensive:
-    - Web Application Penetration Testing
-    - Network Infrastructure Assessment
-    - Wireless Security Testing
-    - Red Team Operations
-    - Social Engineering
-  defensive:
-    - Digital Forensics & Incident Response
-    - Memory & Disk Analysis
-    - Network Traffic Investigation
-    - Malware Analysis & Reverse Engineering
-    - Threat Hunting & Attribution
-current_focus: "Advanced Persistent Threat Detection & Response"
-motto: "Breaking things to build them stronger"
+```python
+class SecurityProfessional:
+    def __init__(self):
+        self.name = "CwlTF"
+        self.experience = "2 years"
+        self.role = ["Penetration Tester", "Digital Forensics Analyst"]
+        self.passion = "Cybersecurity & Security Research"
+        
+    def get_current_focus(self):
+        return [
+            "Improving penetration testing skills",
+            "Learning advanced forensics techniques",
+            "Building security tools"
+        ]
 ```
 
 -----
 
-## ⚡ **TECHNICAL ARSENAL**
+## 🔧 **Tech Stack**
 
 <div align="center">
 
-### **🗡️ OFFENSIVE SECURITY**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-
-### **🔬 DIGITAL FORENSICS**
-
-![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-DC143C?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-FF4500?style=for-the-badge&logoColor=white)
-![Sleuth Kit](https://img.shields.io/badge/Sleuth_Kit-2F4F4F?style=for-the-badge&logoColor=white)
-
-### **💻 PROGRAMMING & AUTOMATION**
+### **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **☁️ CLOUD & INFRASTRUCTURE**
+### **Security Tools**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### **Forensics Tools**
+
+![Autopsy](https://img.shields.io/badge/Autopsy-DC143C?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white)
 
 </div>
 
 -----
 
-## 🎯 **EXPERTISE BREAKDOWN**
+## 🎯 **Skills & Experience**
 
 <table>
 <tr>
 <td width="50%">
 
-### **🚨 OFFENSIVE SECURITY**
+### **🔍 Penetration Testing**
 
-```
-├── Web Application Testing
-│   ├── OWASP Top 10
-│   ├── API Security Testing
-│   └── Source Code Review
-├── Network Penetration Testing
-│   ├── Internal Network Assessment
-│   ├── External Perimeter Testing
-│   └── Wireless Security
-├── Red Team Operations
-│   ├── Social Engineering
-│   ├── Physical Security
-│   └── Advanced Persistent Threat Simulation
-└── Exploit Development
-    ├── Buffer Overflow Exploitation
-    ├── Binary Analysis
-    └── Custom Payload Development
-```
+- Web application security testing
+- Network vulnerability assessment
+- Basic exploit development
+- Security automation with Python
+- Linux system administration
 
 </td>
 <td width="50%">
 
-### **🔍 DIGITAL FORENSICS**
+### **🕵️ Digital Forensics**
 
-```
-├── Incident Response
-│   ├── Live System Analysis
-│   ├── Evidence Collection
-│   └── Timeline Reconstruction
-├── Memory Forensics
-│   ├── Volatility Framework
-│   ├── Process Analysis
-│   └── Malware Detection
-├── Disk Forensics
-│   ├── File System Analysis
-│   ├── Data Recovery
-│   └── Deleted File Reconstruction
-└── Network Forensics
-    ├── Traffic Analysis
-    ├── Protocol Reconstruction
-    └── Attack Vector Identification
-```
+- Digital evidence collection
+- Basic memory analysis
+- File system investigation
+- Network traffic analysis
+- Incident documentation
 
 </td>
 </tr>
-</div>
+</table>
 
-## 📊 **PROFESSIONAL METRICS**
+-----
+
+## 📚 **Currently Learning**
+
+- Advanced penetration testing techniques
+- Malware analysis fundamentals
+- Binary exploitation
+- Reverse engineering
+- Cloud security basics
+
+-----
+
+## 🚀 **Projects**
+
+Here are some projects I’m working on or have completed:
+
+- **Security Scripts** - Python automation tools for pentesting tasks
+- **Forensics Utilities** - C/C++ programs for digital evidence analysis
+- **CTF Writeups** - Documentation of Capture The Flag challenges
+- **Learning Labs** - Personal lab setups for practicing security skills
+
+-----
+
+## 📊 **GitHub Stats**
 
 <div align="center">
 
-```ascii
-┌─ SECURITY ACHIEVEMENTS ─────────────────────────────────────────┐
-│                                                                 │
-│  🎯 Successful Penetration Tests:     150+                     │
-│  🔍 Digital Forensics Cases:          75+                      │
-│  ⚡ Critical Vulnerabilities Found:   25+                      │
-│  🏆 CVEs Discovered:                  8                        │
-│  📝 Security Research Papers:         12                       │
-│  🛡️ Years of Experience:              8+                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CwlTF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9"/>
 
-</div>
-
-## 🌐 **CONNECT & COLLABORATE**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cwltf)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cwltf)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cwltf)
-[![Personal Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cwltf.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cwltf.dev)
-
-**🤝 Open for collaboration on security research, tool development, and knowledge sharing**
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CwlTF&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9"/>
 
 </div>
 
 -----
 
-## 💭 **PHILOSOPHY**
+## 🎯 **Goals for 2025**
 
-> *“In cybersecurity, every vulnerability discovered is a lesson learned, every incident investigated is wisdom gained, and every system secured is a step towards a safer digital world. We don’t just break things – we understand them, improve them, and make them resilient.”*
+- [ ] Obtain OSCP certification
+- [ ] Contribute to open-source security tools
+- [ ] Participate in more CTF competitions
+- [ ] Develop advanced C/C++ security tools
+- [ ] Learn reverse engineering techniques
+
+-----
+
+## 📫 **Let’s Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+**Always interested in learning from other security professionals and sharing knowledge!**
+
+</div>
 
 -----
 
 <div align="center">
 
-### ⚡ **“Hack the Planet, Secure the Future”** ⚡
+### 💡 *“Two years in, always learning, always growing”* 💡
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=CwlTF&color=00d4ff&style=for-the-badge&label=Profile+Views)
-
-**🛡️ Stay Secure, Stay Vigilant 🛡️**
+![Profile Views](https://komarev.com/ghpvc/?username=CwlTF&color=00d4ff&style=for-the-badge&label=Profile+Views)
 
 </div>
