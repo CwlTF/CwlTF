@@ -12,7 +12,7 @@
 
 ## 👨‍💻 **About Me**
 
-Security professional with 2 years of experience in penetration testing and digital forensics. Currently developing my skills through hands-on practice and continuous learning.
+Security professional with 2 years of experience in penetration testing and digital forensics...
 
 ```python
 class SecurityProfessional:
@@ -56,6 +56,18 @@ class SecurityProfessional:
 ![Autopsy](https://img.shields.io/badge/Autopsy-DC143C?style=for-the-badge&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white)
 
+### **Currently Used Linux Distro**
+
+![Arch Linux](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### **Other Distros Used**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
 </div>
 
 -----
@@ -73,8 +85,6 @@ class SecurityProfessional:
 - Basic exploit development
 - Security automation with Python
 - Linux system administration
-- i use ![Arch Linux](https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
 </td>
 <td width="50%">
 
