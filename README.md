@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ **CwlTF**
+# 🛡️ **Skyzz**
 
 **Penetration Tester • Digital Forensics Enthusiast**
 
@@ -127,7 +127,7 @@ Here are some projects I’m working on or have completed:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CwlTF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyzz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CwlTF&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=c9d1d9"/>
 
@@ -150,10 +150,6 @@ Here are some projects I’m working on or have completed:
 <div align="center">
     
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cwltff)
-[![ProtonMail](https://img.shields.io/badge/Secure_Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cwltfx11@protonmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/CwlTF)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/_cwl.tf)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://reddit.com/u/Kevkkk)
 
 **Always interested in learning from other security professionals and sharing knowledge!**
 
