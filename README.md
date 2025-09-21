@@ -141,15 +141,7 @@ Here are some projects I’m working on or have completed:
 - [ ] Contribute to open-source security tools
 - [ ] Participate in more CTF competitions
 - [ ] Develop advanced C/C++ security tools
-- [ ] Learn reverse engineering techniques
-
------
-
-## 📞 **Contact Me**
-
-<div align="center">
-    
-[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cwltff)
+- [ ] Learn reverse engineering 
 
 **Always interested in learning from other security professionals and sharing knowledge!**
 
