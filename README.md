@@ -17,7 +17,7 @@ Security professional with 2 years of experience in penetration testing and digi
 ```python
 class SecurityProfessional:
     def __init__(self):
-        self.name = "CwlTF"
+        self.name = "Skyzzz"
         self.experience = "2 years"
         self.role = ["Penetration Tester", "Digital Forensics Analyst"]
         self.passion = "Cybersecurity & Security Research"
